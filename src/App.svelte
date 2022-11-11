@@ -51,6 +51,8 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: 100vh;
+    background-color: #2325;
+    background-blend-mode: darken;
 
     display: flex;
     flex-direction: column;

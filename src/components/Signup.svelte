@@ -19,5 +19,12 @@
     align-items: center;
     padding: 100px 18vw;
   }
+  
+  /* @media (max-width: 768px) {
+    .signup {
+      padding: 100px 12vw;
+      padding-top: 140px;
+    }
+  } */
 
 </style>

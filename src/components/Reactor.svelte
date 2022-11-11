@@ -26,19 +26,19 @@
 
   .slide {
     position: absolute;
-    bottom: -150px;
+    bottom: -90px;
     left: 0;
     width: 100%;
     overflow: hidden;
     line-height: 0;
-    z-index: 2;
+    z-index: 3;
 }
 
 .slide svg {
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
-    height: 150px;
+    height: 90px;
     transform: rotateY(180deg);
 }
 

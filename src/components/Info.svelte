@@ -28,7 +28,7 @@
   /* ehhh */
   .slide {
     position: absolute;
-    bottom: -150px;
+    bottom: -90px;
     left: 0;
     width: 100%;
     overflow: hidden;
@@ -40,7 +40,7 @@
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
-    height: 150px;
+    height: 90px;
   }
 
 .slide .shape-fill {
@@ -49,7 +49,7 @@
 
   .top-slide {
     position: absolute;
-    top: -150px;
+    top: -90px;
     left: 0;
     width: 100%;
     overflow: hidden;
@@ -61,7 +61,7 @@
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
-    height: 150px;
+    height: 90px;
     transform: rotateY(180deg);
 }
 
